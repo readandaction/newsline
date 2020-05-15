@@ -1,0 +1,21 @@
+.main {
+  padding-left: 20px;
+  display: flex;
+}
+.main__title {
+  font-size: 58px;
+}
+.main__block ul {
+  display: flex;
+  flex-direction: column;
+}
+.news {
+  padding: 20px;
+}
+.news__title {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.news__contents {
+  text-decoration: underline;
+}
